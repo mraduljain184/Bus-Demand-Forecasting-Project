@@ -24,7 +24,7 @@ We are provided with:
 - **Seats booked**: Historical demand data  
 - **Date of Journey (doj)**: The actual travel date  
 - **Date of Issue (doi)**: The ticket booking date  
-- **Search Data**: Number of users searching for a specific journey  
+- **Search Data**: Number of users searching for a specific journey. 
 
 #### 📈 Target
 
